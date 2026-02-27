@@ -1,0 +1,8 @@
+# Server Configuration
+PORT=3000
+
+# MongoDB Connection (Replace with your actual link from MongoDB Atlas)
+MONGO_URI=mongodb+srv://admin:jamuna9495.abcde.mongodb.net/ZenithDB
+
+# Secret Key for Security
+JWT_SECRET=supersecretkey123
